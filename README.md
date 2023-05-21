@@ -23,7 +23,7 @@ Unprocess Data: <br/>
 <br />
 <br />
 Importing more Information from the Meta Data:  <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230755595-5c4611eb-3121-4bd1-89af-72e4cec7d27d.JPG"/>
+<img src="https://github.com/Damilareadesina/University-Ranking-Analysis/assets/126564128/ec83e486-29ce-4e0f-a07f-96600e2585f9.JPG"/>
 <br />
 <br />
 Merging Queries:  <br/>
@@ -31,7 +31,7 @@ Merging Queries:  <br/>
 <br />
 <br />
 Unpivot column:  <br/>
-<img src="https://user-images.githubusercontent.com/126564128/230756564-81371364-2725-40fb-ad21-66461f3a0440.JPG"/>
+<img src="https://github.com/Damilareadesina/University-Ranking-Analysis/assets/126564128/7095882c-3f7d-472f-9e6b-676e531ea403.JPG"/>
 <br />
 <br />
 Loaded Into Table:  <br/>
